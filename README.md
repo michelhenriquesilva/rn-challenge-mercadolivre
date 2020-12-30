@@ -1,6 +1,6 @@
 # UI Clone - Mercado Livre com React Native!
 
-Fala pessoal tudo jóia?! Tenho estudado bastante sobre ReactJS e React Native, e tenho estado muito feliz com o resultado dos meus estudos! Por isso quero deixar aqui para quem quiser clonar e se divertir também uma reproduzar bem básica de algumas telas da interface do Mercado Livre.
+Fala pessoal tudo jóia?! Tenho estudado bastante sobre ReactJS e React Native, e tenho estado muito feliz com o resultado dos meus estudos! Por isso quero deixar aqui para quem quiser clonar e se divertir também uma reprodução bem básica de algumas telas da interface do Mercado Livre.
 Eu não construi todas as telas, pois a ideia mesmo era somente reproduzir alguns conceitos
 
 ## Objetivo
